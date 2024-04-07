@@ -7,6 +7,7 @@ Care has been taken to preserve the formatting to understand how certain registr
 E.g.,
 
 A <=> **A**ugsburg
+
 AB <=> **A**schaffen**b**urg
 
 Source for the data is: 
